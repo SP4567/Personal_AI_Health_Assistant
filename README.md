@@ -18,6 +18,8 @@ Hybrid AI model that uses:
 ### Technology Stack
 - Jupyter Notebook
 - Python
+- Machine Learning
+- Google's Gemini
 
 ### License
 Apache-2.0 license
